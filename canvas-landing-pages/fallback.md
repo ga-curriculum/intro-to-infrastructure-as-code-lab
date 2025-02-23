@@ -1,22 +1,18 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Infrastructure as Code Lab</span>
 </h1>
-
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+By the end of this lab, students will be able to:
+
+- Translate plain English infrastructure requirements into Terraform configurations.
+- Create a Terraform configuration file defining a simple web application infrastructure.
+- Generate and analyze an execution plan for the Terraform configuration.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
-
-## Level Up
-
-tktk If there is no Level Up content for this lab, then this section and all of its content should be removed.
-
-🚀 [Level Up](./level-up/README.md)
+- [Exploring Terraform Documentation](../terraform-docs/README.md)
+- [Building a Terraform Configuration](../terraform-configuration/README.md)

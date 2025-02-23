@@ -1,47 +1,35 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Infrastructure as Code Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+By the end of this lab, students will be able to:
+
+- Translate plain English infrastructure requirements into Terraform configurations.
+- Create a Terraform configuration file defining a simple web application infrastructure.
+- Generate and analyze an execution plan for the Terraform configuration.
 
 ## Content
 
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
+- [Exploring Terraform Documentation](./terraform-docs/README.md)
+- [Building a Terraform Configuration](./terraform-configuration/README.md)
 
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- [Infrastructure as Code Lecture](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/infrastructure-as-code/canvas-landing-pages/itb.html)
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+Estimated time to complete core lab exercise: **60 min**
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/infrastructure-as-code-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/infrastructure-as-code-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 

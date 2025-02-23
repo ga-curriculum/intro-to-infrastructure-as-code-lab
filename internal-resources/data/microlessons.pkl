@@ -2,24 +2,16 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-setup = new Template.Microlesson {
-  friendlyName = "Setup"
-  dirName = "setup"
+terraformDocs = new Template.Microlesson {
+  friendlyName = "Exploring Terraform Documentation"
+  dirName = "terraform-docs"
   type = "Content"
   videoUrl = ""
 }
 
-exercise = new Template.Microlesson {
-  friendlyName = "Exercise"
-  dirName = "exercise"
+terraformConfiguration = new Template.Microlesson {
+  friendlyName = "Building a Terraform Configuration"
+  dirName = "terraform-configuration"
   type = "Content"
   videoUrl = ""
 }
-
-levelUp = new Template.Microlesson {
-  friendlyName = "Level Up"
-  dirName = "level-up"
-  type = "Level Up Content"
-  videoUrl = ""
-}
-
