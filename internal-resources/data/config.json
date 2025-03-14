@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Infrastructure as Code Lab",
-    "name": "infrastructure-as-code-lab",
+    "friendlyName": "Infrastructure as Code (IaC) Lab",
+    "name": "infrastructure-as-code-iac-lab",
     "type": "Lab",
     "about": "",
     "starterCode": "",
@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Exploring Terraform Documentation",
-          "dirName": "terraform-docs",
+          "friendlyName": "Explore Terraform's Documentation",
+          "dirName": "explore-terraforms-documentation",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Building a Terraform Configuration",
-          "dirName": "terraform-configuration",
+          "friendlyName": "Build a Terraform Configuration",
+          "dirName": "build-a-terraform-configuration",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -63,14 +63,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Exploring Terraform Documentation",
-          "dirName": "terraform-docs",
+          "friendlyName": "Explore Terraform's Documentation",
+          "dirName": "explore-terraforms-documentation",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -79,8 +79,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Building a Terraform Configuration",
-          "dirName": "terraform-configuration",
+          "friendlyName": "Build a Terraform Configuration",
+          "dirName": "build-a-terraform-configuration",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

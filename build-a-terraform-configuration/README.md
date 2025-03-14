@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Infrastructure as Code Lab</span>
+  <span class="headline">Infrastructure as Code (IaC) Lab</span>
   <span class="subhead">Building a Terraform Configuration</span>
 </h1>
 

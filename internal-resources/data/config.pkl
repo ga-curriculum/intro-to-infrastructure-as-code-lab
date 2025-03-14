@@ -12,28 +12,27 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Infrastructure as Code Lab"
+  friendlyName = "Infrastructure as Code (IaC) Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "infrastructure-as-code-lab"
+  name = "infrastructure-as-code-iac-lab"
   type = "Lab"
 }
 
 courses {
   new {
+    name = "itb"
+    microlessons {
+      mls.exploreTerraformsDocumentation
+      mls.buildATerraformConfiguration
+    }
+  }
+  new {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.terraformDocs
-      mls.terraformConfiguration
-    }
-  }
-    new {
-    name = "itb"
-    microlessons {
-      // Add microlessons here, in the order they should be delivered
-      mls.terraformDocs
-      mls.terraformConfiguration
+      mls.exploreTerraformsDocumentation
+      mls.buildATerraformConfiguration
     }
   }
 }
