@@ -18,4 +18,4 @@ In this lab, you will:
 
 ## Rubric
 
-[Rubric](./rubrics/itb.md)
+[Rubric](../rubrics/itb.md)

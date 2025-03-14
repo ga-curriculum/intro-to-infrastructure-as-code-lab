@@ -19,4 +19,4 @@ In this lab, you will:
 
 ## Rubric
 
-[Rubric](./rubrics/fallback.md)
+[Rubric](../rubrics/fallback.md)
