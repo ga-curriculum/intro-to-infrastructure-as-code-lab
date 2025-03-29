@@ -1,19 +1,21 @@
 <h1>
-  <span class="headline">Infrastructure as Code (IaC) Lab</span>
+  <span class="headline">Intro to Infrastructure as Code Lab</span>
   <span class="subhead">Building a Terraform Configuration</span>
 </h1>
 
+## Infrastructure requirements
+
 In this exercise, you'll create a Terraform configuration file that defines a simple web application infrastructure based on the provided requirements.
 
-## Infrastructure Requirements
+### Scenario
 
-You are tasked with creating a Terraform configuration for a simple web application infrastructure.
+You are tasked with creating a Terraform configuration file for a simple web application infrastructure.
 
 The infrastructure should include the following components:
 
 - A virtual machine (EC2 instance) to host the web application.
 - A security group to control inbound traffic to the virtual machine.
-- An Elastic IP address associated with the virtual machine.
+- An elastic IP address associated with the virtual machine.
 
 The virtual machine should have the following specifications:
 
@@ -23,9 +25,11 @@ The virtual machine should have the following specifications:
   - **Name:** WebServer
   - **Environment:** Production
 
-The security group should allow inbound HTTP traffic (port 80) from anywhere.
+The security group should allow inbound HTTP traffic from anywhere.
 
-## Review the Execution Plan
+Finally, format the configuration file to ensure consistent indentation and style. Also, check the syntax and structure of your configuration files to ensure they are valid.
+
+## Review the execution plan
 
 After creating your configuration file, use `terraform plan` to ensure your configurations would apply as you expect.
 

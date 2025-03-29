@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Infrastructure as Code (IaC) Lab"
+  friendlyName = "Intro to Infrastructure as Code Lab"
   // This must match the repo name as it appears on GitHub exactly
-  name = "infrastructure-as-code-iac-lab"
+  name = "intro-to-infrastructure-as-code-lab"
   type = "Lab"
 }
 
@@ -22,6 +22,7 @@ courses {
   new {
     name = "itb"
     microlessons {
+      mls.setup
       mls.exploreTerraformsDocumentation
       mls.buildATerraformConfiguration
     }
@@ -31,6 +32,7 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
+      mls.setup
       mls.exploreTerraformsDocumentation
       mls.buildATerraformConfiguration
     }

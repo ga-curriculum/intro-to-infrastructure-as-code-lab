@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Infrastructure as Code (IaC) Lab",
-    "name": "infrastructure-as-code-iac-lab",
+    "friendlyName": "Intro to Infrastructure as Code Lab",
+    "name": "intro-to-infrastructure-as-code-lab",
     "type": "Lab",
     "about": "",
     "starterCode": "",
@@ -19,6 +19,16 @@
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
         {
           "friendlyName": "Explore Terraform's Documentation",
           "dirName": "explore-terraforms-documentation",
@@ -68,6 +78,16 @@
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
         {
           "friendlyName": "Explore Terraform's Documentation",
           "dirName": "explore-terraforms-documentation",

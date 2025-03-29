@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Infrastructure as Code (IaC) Lab</span>
+  <span class="headline">Intro to Infrastructure as Code Lab</span>
 </h1>
 
 ## About
@@ -13,6 +13,7 @@ In this lab, you will:
 
 ## Content
 
+- [Setup](./setup/README.md)
 - [Explore Terraform's Documentation](./explore-terraforms-documentation/README.md)
 - [Build a Terraform Configuration](./build-a-terraform-configuration/README.md)
 
@@ -33,8 +34,8 @@ Estimated time to complete core lab exercise: **60 min**
 
 ### Course landing pages
 
-- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/infrastructure-as-code-iac-lab/canvas-landing-pages/itb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/infrastructure-as-code-iac-lab/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-infrastructure-as-code-lab/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-infrastructure-as-code-lab/canvas-landing-pages/fallback.html)
 
 ### Resources
 

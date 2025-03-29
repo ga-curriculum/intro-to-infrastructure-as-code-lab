@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Infrastructure as Code (IaC) Lab</span>
+  <span class="headline">Intro to Infrastructure as Code Lab</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

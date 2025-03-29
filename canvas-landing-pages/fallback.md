@@ -1,7 +1,7 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Infrastructure as Code (IaC) Lab</span>
+  <span class="headline">Intro to Infrastructure as Code Lab</span>
 </h1>
 
 ## About
@@ -14,6 +14,7 @@ In this lab, you will:
 
 ## Content
 
+- [Setup](../setup/README.md)
 - [Explore Terraform's Documentation](../explore-terraforms-documentation/README.md)
 - [Build a Terraform Configuration](../build-a-terraform-configuration/README.md)
 
