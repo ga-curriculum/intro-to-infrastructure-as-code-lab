@@ -3,6 +3,8 @@
   <span class="subhead">Explore Terraform's Documentation</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to utilize the Terraform documentation effectively to understand resources, configurations, and best practices.
+
 ## Exploring the Terraform documentation
 
 In this exercise, you'll explore the Terraform documentation to find information about the resources and configurations used in the next exercise.

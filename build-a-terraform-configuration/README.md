@@ -3,6 +3,8 @@
   <span class="subhead">Building a Terraform Configuration</span>
 </h1>
 
+**Learning objective:** By the end of this exercise, students will be able to create a Terraform configuration file that defines a simple web application infrastructure based on given requirements.
+
 ## Infrastructure requirements
 
 In this exercise, you'll create a Terraform configuration file that defines a simple web application infrastructure based on the provided requirements.
