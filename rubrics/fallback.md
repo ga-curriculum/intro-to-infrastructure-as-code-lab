@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Virtual Private Cloud Design Lab</span>
+  <span class="headline">Intro to Infrastructure as Code Lab</span>
   <span class="subhead">Rubric</span>
 </h1>
 
